@@ -1,4 +1,4 @@
-package thilaga;
+package crud;
 import java.awt.*;
 import javax.swing.*;
 import javax.swing.table.JTableHeader;
