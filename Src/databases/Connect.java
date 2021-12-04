@@ -9,7 +9,7 @@ public class Connect
 	
 	public static void setProperties()
 	{
-		String[] arr=thilaga.StoreDetails.getData();
+		String[] arr=crud.StoreDetails.getData();
 		dbname=arr[0];
 		mysql_username=arr[1];
 		mysql_password=arr[2];
