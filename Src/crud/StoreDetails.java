@@ -1,4 +1,4 @@
-package thilaga;
+package crud;
 import java.io.*;
 
 public class StoreDetails
